@@ -1,3 +1,6 @@
+## 본 서비스는 리액트 구축 서비스시작전 미리 준비하는 예제 프로젝트 입니다.
+## 클라이언트 서버구축 하는법좀 제발좀 알려줘라..누구라도ㅜㅜ
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
